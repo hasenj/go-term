@@ -1,0 +1,4 @@
+go.hasen.dev/generic v0.1.1 h1:SEJwEK/0nTfTpOs2mLR1+0p7Ej5K1AayuDQQ58douao=
+go.hasen.dev/generic v0.1.1/go.mod h1:zvBu/sEcAnFg9hoW+GhkzjqycRcP+lGCU4FKjMtQ9jI=
+golang.org/x/sys v0.27.0 h1:wBqf8DvsY9Y/2P8gAfPDEYNuS30J4lPHJxXSb/nJZ+s=
+golang.org/x/term v0.23.0 h1:F6D4vR+EHoL9/sWAWgAR1H2DcHr4PareCbAaCo1RpuU=
